@@ -1,5 +1,5 @@
-### Innocent George Mithu Nyamusa 👋
-##🧍🏻‍♂️ About Me
+### Innocent George Mithu Nyamusa
+## About Me 🧍🏻‍♂️
 I am innocent george mithu nyamusa, a passionate and fast-learner full stack developer (Mobile And Web) from Harare in Zimbabwe🇿🇼 🌍. I'm currently in my Final Year pursuing my Barchelors in Computer Science at the University of Zimbabwe.
 
 
