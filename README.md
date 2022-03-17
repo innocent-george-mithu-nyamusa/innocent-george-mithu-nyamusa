@@ -30,16 +30,16 @@ I am innocent george mithu nyamusa, a passionate and fast-learner full stack dev
 
 
 ## Language And Tools
-<img height="32" style="margin: 2px;" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"  />
-<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/flutter/flutter.png" />
-<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/swift/swift.png" />
-<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/python/python.png" />
-<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/javascript/javascript.png" />
-<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/html/html.png" />
-<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/css/css.png" />
-<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/sass/sass.png" />
-<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/heroku/heroku.png" />
+[<img height="32" style="margin: 2px;" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">]()
+[<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"  />]()
+[<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/flutter/flutter.png" />]()
+[<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/swift/swift.png" />]()
+[<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/python/python.png" />]()
+[<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/javascript/javascript.png" />]()
+[<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/html/html.png" />]()
+[<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/css/css.png" />]()
+[<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/sass/sass.png" />]()
+[<img style="margin: 2px;" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/heroku/heroku.png" />]()
 
 <!--
 **innocent-george-mithu-nyamusa/innocent-george-mithu-nyamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
