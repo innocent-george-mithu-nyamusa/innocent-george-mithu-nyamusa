@@ -5,6 +5,22 @@
 I am innocent george mithu nyamusa, a passionate and fast-learner full stack developer (Mobile And Web) from Harare in Zimbabwe🇿🇼 🌍. I'm currently in my Final Year pursuing my Barchelors in Computer Science at the University of Zimbabwe.
 
 
+- 🔭 I’m currently working on Cattle MarketPlace App With Camera Based Ai Weight Predictor, Tobacco Leaf AI Based Grading Application, Decentralised AR Based E-commerce Shop
+
+- 🌱 I’m currently learning Azure Cloud Engineering, SwiftUi and Artificial Intelligence, Solidity And Smart Contracts Development
+
+- 👯 I’m looking to collaborate on any open source project related with Cloud engineering, Mobile Development and Blockchain Application Development
+
+- 💬 Ask me about anything nodejs, php (OOP & Procedural), Flutter , Swift(UiKit, SwiftUi).
+
+- 😄 Pronouns: he/him/his
+
+- ⚡ Fun fact: I can speak Deutsche🇩🇪, Eglish🇺🇸 And Shona🇿🇼. I'm a parkour athlete (.. Yes i can do A 360 Kick And A Back Flip) [ if you don't know waht parkour is checkout Taylor lautner Movie Tracers] . I've played volleyball for 10 years, and i'm still going..
+
+- 📹 Movies: I love movies in genres of Sci-fi, Action Adventure And Action Comedy. My Favorioute Movie is The Maze : Death Cure
+
+- 🎶 Music: I listen to anything that fits my current mood. Usually i listen to Classical Music after a long coding sprint.
+
 
 <!--
 **innocent-george-mithu-nyamusa/innocent-george-mithu-nyamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
