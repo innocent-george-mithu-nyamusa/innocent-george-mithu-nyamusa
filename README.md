@@ -30,8 +30,7 @@ I am innocent george mithu nyamusa, a passionate and fast-learner full stack dev
 
 
 ## Language And Tools
-
-<img style="margin: 2px;" height="32" width="32" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img height="32" width="32" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img style="margin: 2px;" height="32" width="32" href="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"  />
 <img style="margin: 2px;" height="32" width="32" href="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/flutter/flutter.png" />
 <img style="margin: 2px;" height="32" width="32" href="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/swift/swift.png" />
