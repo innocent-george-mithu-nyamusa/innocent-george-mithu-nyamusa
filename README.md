@@ -1,11 +1,6 @@
 [![Header](https://github.com/innocent-george-mithu-nyamusa/innocent-george-mithu-nyamusa/blob/0dd8ea08a040b34cc2ebc353047f5ff982e5d508/images/background-image.jpg "Header")](http://nyamusa.tech/)
 
 ### Innocent George Mithu Nyamusa
-<a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/instagram.svg"></a>
-<a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/linkedin.svg"></a>
-<a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/devdotto.svg"></a>
-<a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/twitter.svg"></a>
-
 
 ## Hello there 🖐🏽
 I am innocent george mithu nyamusa, a passionate and fast-learner full stack developer (Mobile And Web) from Harare in Zimbabwe🇿🇼 🌍. I'm currently in my Final Year pursuing my Barchelors in Computer Science at the University of Zimbabwe.
@@ -27,6 +22,26 @@ I am innocent george mithu nyamusa, a passionate and fast-learner full stack dev
 
 - 🎶 Music: I listen to anything that fits my current mood. Usually i listen to Classical Music after a long coding sprint.
 
+## Connect With Me 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/instagram.svg">(https://www.instagram.com/invites/contact/?i=12cpffknvhqxi&utm_content=loqys52)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/linkedin.svg">(https://www.linkedin.com/in/george-innocent-mithu-nyamusa/)
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/twitter.svg">()
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/devdotto.svg">(https://dev.to/innocentgeorgemithunyamusa)
+
+---
+
+## Language And Tools
+
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
+https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png
+https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/flutter/flutter.png
+https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/swift/swift.png
+https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/python/python.png
+https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/javascript/javascript.png
+https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/html/html.png
+https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/css/css.png
+https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/sass/sass.png
+https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/heroku/heroku.png
 
 <!--
 **innocent-george-mithu-nyamusa/innocent-george-mithu-nyamusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
