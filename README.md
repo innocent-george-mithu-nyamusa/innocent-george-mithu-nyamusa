@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/innocent-george-mithu-nyamusa/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/innocent-george-mithu-nyamusa/innocent-george-mithu-nyamusa/blob/0dd8ea08a040b34cc2ebc353047f5ff982e5d508/images/background-image.jpg "Header")](https://nyamusa.tech/)
 
 ### Innocent George Mithu Nyamusa
 ## About Me 🧍🏻‍♂️
