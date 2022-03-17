@@ -3,7 +3,7 @@
 ### Innocent George Mithu Nyamusa
 <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/instagram.svg"></a>
 <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/linkedin.svg"></a>
-<a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/devto.svg"></a>
+<a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/devdotto.svg"></a>
 <a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/twitter.svg"></a>
 
 
