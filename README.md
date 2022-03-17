@@ -2,14 +2,17 @@
 
 ### Innocent George Mithu Nyamusa
 
+
 ## Connect With Me 
 [<img height="32" style="margin: 2px;" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/instagram.svg">](https://www.instagram.com/invites/contact/?i=12cpffknvhqxi&utm_content=loqys52)
 [<img height="32" width="32" style="margin: 2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/linkedin.svg">](https://www.linkedin.com/in/george-innocent-mithu-nyamusa/)
 [<img height="32" width="32" style="margin: 2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/twitter.svg">]()
 [<img height="32" width="32" style="margin: 2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/devdotto.svg">](https://dev.to/innocentgeorgemithunyamusa)
 
+
 ## Hello there 🖐🏽
 I am innocent george mithu nyamusa, a passionate and fast-learner full stack developer (Mobile And Web) from Harare in Zimbabwe🇿🇼 🌍. I'm currently in my Final Year pursuing my Barchelors in Computer Science at the University of Zimbabwe.
+
 
 ## Language And Tools
 [<img height="64" width="64" style="margin: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">]()
@@ -22,6 +25,8 @@ I am innocent george mithu nyamusa, a passionate and fast-learner full stack dev
 [<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/css/css.png" />]()
 [<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/sass/sass.png" />]()
 [<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/heroku/heroku.png" />]()
+
+
 
 - 🔭 I’m currently working on Cattle MarketPlace App With Camera Based Ai Weight Predictor, Tobacco Leaf AI Based Grading Application, Decentralised AR Based E-commerce Shop
 
