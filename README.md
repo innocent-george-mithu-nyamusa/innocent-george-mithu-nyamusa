@@ -1,11 +1,8 @@
-[![Header](https://github.com/innocent-george-mithu-nyamusa/innocent-george-mithu-nyamusa/blob/0dd8ea08a040b34cc2ebc353047f5ff982e5d508/images/background-image.jpg "Header")](https://nyamusa.tech/)
+[![Header](https://github.com/innocent-george-mithu-nyamusa/innocent-george-mithu-nyamusa/blob/0dd8ea08a040b34cc2ebc353047f5ff982e5d508/images/background-image.jpg "Header")](http://nyamusa.tech/)
 
 ### Innocent George Mithu Nyamusa
-## About Me 🧍🏻‍♂️
+## Hello there 🖐🏽
 I am innocent george mithu nyamusa, a passionate and fast-learner full stack developer (Mobile And Web) from Harare in Zimbabwe🇿🇼 🌍. I'm currently in my Final Year pursuing my Barchelors in Computer Science at the University of Zimbabwe.
-
-
-
 
 
 
