@@ -12,16 +12,16 @@
 I am innocent george mithu nyamusa, a passionate and fast-learner full stack developer (Mobile And Web) from Harare in Zimbabwe🇿🇼 🌍. I'm currently in my Final Year pursuing my Barchelors in Computer Science at the University of Zimbabwe.
 
 ## Language And Tools
-<img height="64" width="64" style="margin: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"  />
-[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/flutter/flutter.png" />]
-[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/swift/swift.png" />]
-[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/python/python.png" />]
-[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/javascript/javascript.png" />]
-[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/html/html.png" />]
-[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/css/css.png" />]
-[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/sass/sass.png" />]
-[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/heroku/heroku.png" />]
+[<img height="64" width="64" style="margin: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">]()
+[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"  />]()
+[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/flutter/flutter.png" />]()
+[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/swift/swift.png" />]()
+[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/python/python.png" />]()
+[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/javascript/javascript.png" />]()
+[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/html/html.png" />]()
+[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/css/css.png" />]()
+[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/sass/sass.png" />]()
+[<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/heroku/heroku.png" />]()
 
 - 🔭 I’m currently working on Cattle MarketPlace App With Camera Based Ai Weight Predictor, Tobacco Leaf AI Based Grading Application, Decentralised AR Based E-commerce Shop
 
