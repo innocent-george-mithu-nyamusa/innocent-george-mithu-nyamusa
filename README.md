@@ -1,6 +1,12 @@
 [![Header](https://github.com/innocent-george-mithu-nyamusa/innocent-george-mithu-nyamusa/blob/0dd8ea08a040b34cc2ebc353047f5ff982e5d508/images/background-image.jpg "Header")](http://nyamusa.tech/)
 
 ### Innocent George Mithu Nyamusa
+<a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/instagram.svg"></a>
+<a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/linkedin.svg"></a>
+<a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/dev.to.svg"></a>
+<a href=""><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/twitter.svg"></a>
+
+
 ## Hello there 🖐🏽
 I am innocent george mithu nyamusa, a passionate and fast-learner full stack developer (Mobile And Web) from Harare in Zimbabwe🇿🇼 🌍. I'm currently in my Final Year pursuing my Barchelors in Computer Science at the University of Zimbabwe.
 
