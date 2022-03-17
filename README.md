@@ -26,7 +26,9 @@ I am innocent george mithu nyamusa, a passionate and fast-learner full stack dev
 [<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/sass/sass.png" />]()
 [<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/heroku/heroku.png" />]()
 
-
+<br />
+<br />
+<br />
 
 - 🔭 I’m currently working on Cattle MarketPlace App With Camera Based Ai Weight Predictor, Tobacco Leaf AI Based Grading Application, Decentralised AR Based E-commerce Shop
 
