@@ -4,7 +4,7 @@
 
 
 ## Connect With Me 
-[<img height="32" style="margin: 2px;" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/instagram.svg">](https://www.instagram.com/invites/contact/?i=12cpffknvhqxi&utm_content=loqys52)
+[<img height="32" style="margin: 2px;" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/instagram.svg">](https://www.instagram.com/innocentnyamusa)
 [<img height="32" width="32" style="margin: 2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/linkedin.svg">](https://www.linkedin.com/in/george-innocent-mithu-nyamusa/)
 [<img height="32" width="32" style="margin: 2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/twitter.svg">]()
 [<img height="32" width="32" style="margin: 2px;" src="https://cdn.jsdelivr.net/npm/simple-icons@6.13.0/icons/devdotto.svg">](https://dev.to/innocentgeorgemithunyamusa)
