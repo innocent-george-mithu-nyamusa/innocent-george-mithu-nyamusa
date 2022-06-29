@@ -42,7 +42,7 @@ I am innocent george mithu nyamusa, a passionate and fast-learner full stack dev
 
 - ⚡ Fun fact: I can speak Deutsche 🇩🇪, English 🇺🇸 And Shona 🇿🇼. I'm an amateur parkour athlete (... Yes i can do A 360 Kick And A Back Flip) [If you don't know what parkour is checkout Taylor Lautner Movie - **Tracers**] . I've played volleyball for 10 years, and i'm still going ...
 
-- 📹 Movies: I love movies in genres of Sci-fi, Action Adventure And Action Comedy. My Favourite Movie is **The Maze : Death Cure**
+- 📹 Movies: I love movies in genres of Sci-fi, Action Adventure And Action Comedy. My Favourite Movie is **The Maze Runner : Death Cure**
 
 - 🎶 Music: I listen to anything that fits my current mood. Usually i listen to Classical Music after a long coding sprint.
 
