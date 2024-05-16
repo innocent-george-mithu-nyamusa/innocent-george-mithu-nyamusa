@@ -13,7 +13,12 @@
 ## Hello there 🖐🏽
 I am innocent george mithu nyamusa, a passionate and fast-learner full stack software developer from Harare in Zimbabwe🇿🇼 🌍. 
 ## Language And Tools
+[<img height="64" width="64" style="margin: 2px;" src="https://raw.githubusercontent.com/github/explore/main/topics/solidity/solidity.png">]()
 [<img height="64" width="64" style="margin: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">]()
+[<img height="64" width="64" style="margin: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png">]()
+[<img height="64" width="64" style="margin: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png">]()
+[<img height="64" width="64" style="margin: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">]()
+[<img height="64" width="64" style="margin: 2px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">]()
 [<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"  />]()
 [<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/flutter/flutter.png" />]()
 [<img style="margin: 2px;" height="64" width="64" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/swift/swift.png" />]()
@@ -32,9 +37,9 @@ I am innocent george mithu nyamusa, a passionate and fast-learner full stack sof
 
 - 🌱 I’m currently learning Azure Cloud Engineering, SwiftUi and Artificial Intelligence, Solidity And Smart Contracts Development
 
-- 👯 I’m looking to collaborate on any open source project related with Cloud engineering, Mobile Development and Blockchain Application Development
+- 👯 I’m looking to collaborate on any open source project related with Cloud engineering, Mobile Development and Blockchain Application Development.
 
-- 💬 Ask me about anything nodejs, php (OOP & Procedural), Flutter , Swift(UiKit, SwiftUi).
+- 💬 Ask me about anything Rust, Go, Java , nodejs, php (OOP & Procedural), Flutter , Swift(UiKit, SwiftUi).
 
 - 😄 Pronouns: he/him/his
 
